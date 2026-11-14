@@ -1,0 +1,15 @@
+{
+  "name": "guizzo",
+  "description": "The Guizzo plugin: ask people, get approvals and keep team decisions from your agent.",
+  "owner": {
+    "name": "Guizzo",
+    "email": "hello@guizzo.ai"
+  },
+  "plugins": [
+    {
+      "name": "guizzo",
+      "source": "./",
+      "description": "Ask people questions and get approvals by email from your agent, and keep team facts and decisions every agent can recall."
+    }
+  ]
+}
