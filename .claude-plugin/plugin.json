@@ -1,7 +1,7 @@
 {
   "name": "guizzo",
   "displayName": "Guizzo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ask people questions and get approvals by email from your agent, and keep team facts and decisions every agent can recall.",
   "author": {
     "name": "Guizzo",
@@ -19,5 +19,8 @@
     "decisions",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://guizzo.ai/privacy"
+  "privacyPolicyUrl": "https://guizzo.ai/privacy",
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://guizzo.ai/agents",
+  "termsOfServiceUrl": "https://guizzo.ai/terms"
 }

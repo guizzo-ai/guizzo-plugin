@@ -1,14 +1,17 @@
 {
   "name": "guizzo",
   "displayName": "Guizzo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ask people questions and get approvals by email from your agent, and keep team facts and decisions every agent can recall.",
   "author": { "name": "Guizzo", "email": "hello@guizzo.ai" },
+  "publisher": "Guizzo",
   "homepage": "https://guizzo.ai",
   "repository": "https://github.com/guizzo-ai/guizzo-plugin",
   "license": "MIT",
   "keywords": ["human-in-the-loop", "approvals", "questions", "team-memory", "decisions", "mcp"],
   "logo": "assets/logo.svg",
+  "category": "productivity",
+  "tags": ["human-in-the-loop", "approvals", "team-memory", "mcp"],
   "skills": "./skills/",
   "mcpServers": "./mcp.json"
 }

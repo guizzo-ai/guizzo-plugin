@@ -3,13 +3,22 @@
   "description": "The Guizzo plugin: ask people, get approvals and keep team decisions from your agent.",
   "owner": {
     "name": "Guizzo",
-    "email": "hello@guizzo.ai"
+    "email": "hello@guizzo.ai",
+    "url": "https://guizzo.ai"
   },
   "plugins": [
     {
       "name": "guizzo",
+      "displayName": "Guizzo",
       "source": "./",
-      "description": "Ask people questions and get approvals by email from your agent, and keep team facts and decisions every agent can recall."
+      "description": "Ask people questions and get approvals by email from your agent, and keep team facts and decisions every agent can recall.",
+      "category": "productivity",
+      "tags": [
+        "human-in-the-loop",
+        "approvals",
+        "team-memory",
+        "mcp"
+      ]
     }
   ]
 }
