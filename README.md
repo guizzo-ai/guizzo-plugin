@@ -32,7 +32,7 @@ The plugin sends tool calls to Guizzo only, at `mcp.guizzo.ai`. Guizzo emails th
 
 ## Support
 
-hello@guizzo.ai · https://guizzo.ai/agents
+hello@guizzo.ai · https://guizzo.ai · documentation for agents and developers: https://guizzo.ai/agents
 
 ## Maintenance
 
